@@ -1,0 +1,50 @@
+*{box-sizing: border-box;
+border-style: none;}
+body {background-color: hsl(0, 82%, 83%);}
+
+.container {
+  border-radius: 20px;
+  height: 820px;
+  width: 374px;
+  box-sizing: content-box;
+  background-color: #fff;
+  margin: 95px auto  
+ }
+  
+
+.button_menu {
+  background-color: #fff;
+  padding: 56px 0 0 28px;
+   }
+
+  .word {
+  padding: 24px 0 0 22px;
+  }
+ 
+  .searching {
+  padding: 24px 0 0 24px;
+  }
+
+  .menu_items {
+  border-radius: 10px;
+  padding: 19px 0 0 24px; 
+  background-color: #fff;
+  }
+
+  .kind_of {
+    display: inline-block;
+    padding: 0 20px 0 0; 
+  }
+  .word_burger {
+    padding: 30px 0 10px 24px;
+  }
+
+.menu_dishes {
+  border-radius: 10px;
+  padding: 0px 0 10px 24px;
+  background-color: #fff;
+}
+
+.dish {
+  padding: 5px 0 5px 0px;
+}
