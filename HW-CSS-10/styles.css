@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hwb(0 98% 2%); 
+} 
+.main_bord{
+margin: 50px auto; 
+height: 700px;
+width: 1300px;
+background-color: hwb(192 91% 3%);
+padding: 90px 240px; 80px 120px;
+}
+
+.portfolios{
+    height: 200px;
+    width: 1000px;
+    }
+
+.Personality{
+    height: 340px;
+    width: 220px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 5px;
+    /* display: inline-block; */
+    text-align: center;
+    float: left;
+}
+.picture{
+    margin: 25px;
+}
+
+p{
+    line-height: 1.8;
+}
+
+
+
+.Header{font-size: xx-large}
