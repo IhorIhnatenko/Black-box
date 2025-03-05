@@ -1,0 +1,98 @@
+ *{box-sizing: border-box;}
+body 
+{background-color: hsl(0, 82%, 83%);}
+
+.container {
+  padding: 66px 20px 80px 20px;
+  border-radius: 20px;
+  height: 800px;
+  width: 360px;
+  background-color: #fff;
+  margin: 95px auto}
+
+.button_menu {
+  background-color: #fff;
+margin: 0px 0 24px 8px}
+
+h1 {
+  margin:24px 0 20px 2px;
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 32px;
+}
+
+.menu_items {
+margin: 29px 0 24px 4px;
+}
+
+.kind_of {
+margin: 0 8px 0px 4px;
+display: inline-block;
+text-align: center;
+font-family: "Inter", serif;
+font-optical-sizing: auto;
+font-weight: 500;
+font-style: normal;
+font-size: 16px;
+line-height: 30px;
+}
+
+h2 {font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  margin: 0 0 30px 4px;
+}
+
+.menu_dishes {
+  margin: 0px 0 10px 4px;
+  }
+
+.dish {
+  padding: 12px 0 5px 10px;
+  height: 90px;
+  width: 305px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 7px 0 7px 12px;
+  border: 1px solid hsla(0, 0%, 38%, 0.122);
+
+}
+
+button{
+  border: none;
+  background-color: #fff;
+  float: left;
+
+}
+
+#asdfg{
+  border: none;
+  border-radius: 5px;
+  width: 320px;
+  height: 40px;
+  background-color: hwb(0 54% 45% / 0.229);
+}
+
+.name{
+  margin: 8px 0 0 0;
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+  color: #04040494;
+}
+
+.money{
+  margin: 8px 0 0 0;
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 14px;
+  color: hwb(0 2% 24%);
+}
